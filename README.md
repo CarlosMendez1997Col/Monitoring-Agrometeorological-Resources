@@ -1,2 +1,2 @@
 # Monitoring-Agrometeorological-Resources
-Monitoring Agrometeorology Resources in Google Earth Engine (GEE)
+Monitoring Agrometeorological Resources in Google Earth Engine (GEE)
