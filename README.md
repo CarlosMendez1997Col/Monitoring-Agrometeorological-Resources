@@ -14,7 +14,7 @@ gh repo clone CarlosMendez1997Col/Monitoring-Agrometeorological-Resources
 
 ## Description
 
-Repository builded in `Google Earth Engine (GEE)` and `Javascript`.
+Repository built in `Google Earth Engine (GEE)` and `Javascript`.
 
 Each part is llinked below:
 
